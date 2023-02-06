@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-he/values-he.xml",
+            "map": [
+                {
+                    "source": "/Users/kdcrafter10/.gradle/caches/transforms-3/305180749d6b5e3261860db0a0dc3afe/transformed/jetified-Android-Image-Cropper-4.3.0/res/values-he/values-he.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,146,193,247,291,355,416,483,535",
+                        "endColumns": "90,46,53,43,63,60,66,51,61",
+                        "endOffsets": "141,188,242,286,350,411,478,530,592"
+                    }
+                }
+            ]
+        }
+    ]
+}

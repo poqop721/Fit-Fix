@@ -1,0 +1,6 @@
+module Pods_Capstone {
+  umbrella header "Pods-Capstone-umbrella.h"
+
+  export *
+  module * { export * }
+}

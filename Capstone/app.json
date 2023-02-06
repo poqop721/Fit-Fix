@@ -1,0 +1,7 @@
+{
+  "name": "Capstone",
+  "displayName": "Capstone",
+  "expo": {
+    "plugins": ["expo-image-picker", "expo-camera"]
+  }
+}

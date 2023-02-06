@@ -1,0 +1,23 @@
+{
+  "name": "react-native-ionicons",
+  "version": "4.6.5",
+  "summary": "Ionic icons for React Native",
+  "authors": "Arniu Tseng",
+  "license": "MIT",
+  "homepage": "https://github.com/arniu/react-native-ionicons#readme",
+  "platforms": {
+    "ios": "9.0",
+    "tvos": "9.0"
+  },
+  "source": {
+    "git": "https://github.com/arniu/react-native-ionicons.git",
+    "tag": "v4.6.5"
+  },
+  "resources": "fonts/*.ttf",
+  "preserve_paths": "**/*.{js,json}",
+  "dependencies": {
+    "React": [
+
+    ]
+  }
+}

@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/build/intermediates/merged_res/debug/drawable_rn_edit_text_material.xml.flat",
+        "source": "/Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/res/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/build/intermediates/merged_res/debug/drawable_splash_image.png.flat",
+        "source": "/Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/res/drawable/splash_image.png"
+    },
+    {
+        "merged": "/Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_splash_image.png.flat",
+        "source": "/Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/res/drawable-xxhdpi/splash_image.png"
+    },
+    {
+        "merged": "/Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/build/intermediates/merged_res/debug/drawable-mdpi_splash_image.png.flat",
+        "source": "/Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/res/drawable-mdpi/splash_image.png"
+    },
+    {
+        "merged": "/Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/build/intermediates/merged_res/debug/drawable_splashscreen.xml.flat",
+        "source": "/Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/res/drawable/splashscreen.xml"
+    },
+    {
+        "merged": "/Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/build/intermediates/merged_res/debug/layout_launch_screen.xml.flat",
+        "source": "/Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/res/layout/launch_screen.xml"
+    },
+    {
+        "merged": "/Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_splash_image.png.flat",
+        "source": "/Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/res/drawable-xhdpi/splash_image.png"
+    },
+    {
+        "merged": "/Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/build/intermediates/merged_res/debug/drawable-hdpi_splash_image.png.flat",
+        "source": "/Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/res/drawable-hdpi/splash_image.png"
+    },
+    {
+        "merged": "/Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    }
+]

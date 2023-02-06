@@ -1,0 +1,315 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.capstone"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="31" />
+10
+11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+11-->/Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/debug/AndroidManifest.xml:5:5-77
+11-->/Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/debug/AndroidManifest.xml:5:22-75
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->/Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/AndroidManifest.xml:4:5-67
+12-->/Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/AndroidManifest.xml:4:22-64
+13    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+13-->/Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/AndroidManifest.xml:5:5-80
+13-->/Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/AndroidManifest.xml:5:22-77
+14    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+14-->/Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/AndroidManifest.xml:6:5-81
+14-->/Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/AndroidManifest.xml:6:22-78
+15    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+15-->/Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/AndroidManifest.xml:7:5-71
+15-->/Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/AndroidManifest.xml:7:22-68
+16
+17    <uses-feature
+17-->/Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/AndroidManifest.xml:8:5-89
+18        android:name="android.hardware.microphone"
+18-->/Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/AndroidManifest.xml:8:19-61
+19        android:required="false" />
+19-->/Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/AndroidManifest.xml:8:62-86
+20
+21    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+21-->[com.facebook.flipper:flipper:0.125.0] /Users/kdcrafter10/.gradle/caches/transforms-3/95e931fbbfdb29d8fe263063f71e1fc3/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:16:5-76
+21-->[com.facebook.flipper:flipper:0.125.0] /Users/kdcrafter10/.gradle/caches/transforms-3/95e931fbbfdb29d8fe263063f71e1fc3/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:16:22-73
+22    <uses-permission android:name="android.permission.CAMERA" />
+22-->[:expo-camera] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-camera/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-65
+22-->[:expo-camera] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-camera/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:22-62
+23
+24    <queries>
+24-->[:expo-file-system] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:5-20:15
+25
+26        <!-- Query open documents -->
+27        <intent>
+27-->[:expo-file-system] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:17:9-19:18
+28            <action android:name="android.intent.action.OPEN_DOCUMENT_TREE" />
+28-->[:expo-file-system] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:18:13-79
+28-->[:expo-file-system] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:18:21-76
+29        </intent>
+30        <intent>
+30-->[:expo-image-picker] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:16:9-20:18
+31
+32            <!-- Required for picking images from the camera roll if targeting API 30 -->
+33            <action android:name="android.media.action.IMAGE_CAPTURE" />
+33-->[:expo-image-picker] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:19:13-73
+33-->[:expo-image-picker] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:19:21-70
+34        </intent>
+35        <intent>
+35-->[:expo-image-picker] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:21:9-25:18
+36
+37            <!-- Required for picking images from the camera if targeting API 30 -->
+38            <action android:name="android.media.action.ACTION_VIDEO_CAPTURE" />
+38-->[:expo-image-picker] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:24:13-80
+38-->[:expo-image-picker] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:24:21-77
+39        </intent>
+40        <intent>
+40-->[com.github.CanHub:Android-Image-Cropper:4.3.0] /Users/kdcrafter10/.gradle/caches/transforms-3/305180749d6b5e3261860db0a0dc3afe/transformed/jetified-Android-Image-Cropper-4.3.0/AndroidManifest.xml:10:9-16:18
+41            <action android:name="android.intent.action.GET_CONTENT" />
+41-->[com.github.CanHub:Android-Image-Cropper:4.3.0] /Users/kdcrafter10/.gradle/caches/transforms-3/305180749d6b5e3261860db0a0dc3afe/transformed/jetified-Android-Image-Cropper-4.3.0/AndroidManifest.xml:11:13-72
+41-->[com.github.CanHub:Android-Image-Cropper:4.3.0] /Users/kdcrafter10/.gradle/caches/transforms-3/305180749d6b5e3261860db0a0dc3afe/transformed/jetified-Android-Image-Cropper-4.3.0/AndroidManifest.xml:11:21-69
+42
+43            <category android:name="android.intent.category.OPENABLE" />
+43-->[com.github.CanHub:Android-Image-Cropper:4.3.0] /Users/kdcrafter10/.gradle/caches/transforms-3/305180749d6b5e3261860db0a0dc3afe/transformed/jetified-Android-Image-Cropper-4.3.0/AndroidManifest.xml:13:13-73
+43-->[com.github.CanHub:Android-Image-Cropper:4.3.0] /Users/kdcrafter10/.gradle/caches/transforms-3/305180749d6b5e3261860db0a0dc3afe/transformed/jetified-Android-Image-Cropper-4.3.0/AndroidManifest.xml:13:23-70
+44
+45            <data android:mimeType="*/*" />
+45-->[com.github.CanHub:Android-Image-Cropper:4.3.0] /Users/kdcrafter10/.gradle/caches/transforms-3/305180749d6b5e3261860db0a0dc3afe/transformed/jetified-Android-Image-Cropper-4.3.0/AndroidManifest.xml:15:13-44
+45-->[com.github.CanHub:Android-Image-Cropper:4.3.0] /Users/kdcrafter10/.gradle/caches/transforms-3/305180749d6b5e3261860db0a0dc3afe/transformed/jetified-Android-Image-Cropper-4.3.0/AndroidManifest.xml:15:19-41
+46        </intent>
+47    </queries>
+48
+49    <uses-feature
+49-->[com.google.android:cameraview:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/2aa3eb7ffad3a6af6a0c4f4b4098f2c3/transformed/jetified-cameraview-1.0.0/AndroidManifest.xml:25:5-27:36
+50        android:name="android.hardware.camera"
+50-->[com.google.android:cameraview:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/2aa3eb7ffad3a6af6a0c4f4b4098f2c3/transformed/jetified-cameraview-1.0.0/AndroidManifest.xml:26:9-47
+51        android:required="false" />
+51-->[com.google.android:cameraview:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/2aa3eb7ffad3a6af6a0c4f4b4098f2c3/transformed/jetified-cameraview-1.0.0/AndroidManifest.xml:27:9-33
+52    <uses-feature
+52-->[com.google.android:cameraview:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/2aa3eb7ffad3a6af6a0c4f4b4098f2c3/transformed/jetified-cameraview-1.0.0/AndroidManifest.xml:28:5-30:36
+53        android:name="android.hardware.camera.autofocus"
+53-->[com.google.android:cameraview:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/2aa3eb7ffad3a6af6a0c4f4b4098f2c3/transformed/jetified-cameraview-1.0.0/AndroidManifest.xml:29:9-57
+54        android:required="false" />
+54-->[com.google.android:cameraview:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/2aa3eb7ffad3a6af6a0c4f4b4098f2c3/transformed/jetified-cameraview-1.0.0/AndroidManifest.xml:30:9-33
+55
+56    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+56-->[com.google.android.exoplayer:exoplayer-core:2.13.3] /Users/kdcrafter10/.gradle/caches/transforms-3/2d13c7d0639f2f5a8cc3096e0876f74d/transformed/jetified-exoplayer-core-2.13.3/AndroidManifest.xml:24:5-79
+56-->[com.google.android.exoplayer:exoplayer-core:2.13.3] /Users/kdcrafter10/.gradle/caches/transforms-3/2d13c7d0639f2f5a8cc3096e0876f74d/transformed/jetified-exoplayer-core-2.13.3/AndroidManifest.xml:24:22-76
+57    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+57-->[com.android.installreferrer:installreferrer:1.0] /Users/kdcrafter10/.gradle/caches/transforms-3/32b3a4418e69f248993678d5ad5cb73f/transformed/jetified-installreferrer-1.0/AndroidManifest.xml:9:5-110
+57-->[com.android.installreferrer:installreferrer:1.0] /Users/kdcrafter10/.gradle/caches/transforms-3/32b3a4418e69f248993678d5ad5cb73f/transformed/jetified-installreferrer-1.0/AndroidManifest.xml:9:22-107
+58
+59    <application
+59-->/Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/AndroidManifest.xml:10:5-29:19
+60        android:name="com.capstone.MainApplication"
+60-->/Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/AndroidManifest.xml:11:7-38
+61        android:allowBackup="false"
+61-->/Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/AndroidManifest.xml:15:7-34
+62        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+62-->[androidx.core:core:1.7.0] /Users/kdcrafter10/.gradle/caches/transforms-3/b5a8e99dac667ebea08e9f9757d3b404/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+63        android:debuggable="true"
+64        android:icon="@mipmap/ic_launcher"
+64-->/Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/AndroidManifest.xml:13:7-41
+65        android:label="@string/app_name"
+65-->/Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/AndroidManifest.xml:12:7-39
+66        android:roundIcon="@mipmap/ic_launcher"
+66-->/Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/AndroidManifest.xml:14:7-46
+67        android:theme="@style/AppTheme"
+67-->/Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/AndroidManifest.xml:16:7-38
+68        android:usesCleartextTraffic="true" >
+68-->/Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/debug/AndroidManifest.xml:8:9-44
+69        <activity
+69-->/Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/debug/AndroidManifest.xml:11:9-111
+70            android:name="com.facebook.react.devsupport.DevSettingsActivity"
+70-->/Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/debug/AndroidManifest.xml:11:19-83
+71            android:exported="false" />
+71-->/Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/debug/AndroidManifest.xml:11:84-108
+72        <activity
+72-->/Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/AndroidManifest.xml:17:7-28:18
+73            android:name="com.capstone.MainActivity"
+73-->/Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/AndroidManifest.xml:18:9-37
+74            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode"
+74-->/Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/AndroidManifest.xml:20:9-118
+75            android:exported="true"
+75-->/Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/AndroidManifest.xml:23:9-32
+76            android:label="@string/app_name"
+76-->/Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/AndroidManifest.xml:19:9-41
+77            android:launchMode="singleTask"
+77-->/Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/AndroidManifest.xml:21:9-40
+78            android:windowSoftInputMode="adjustResize" >
+78-->/Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/AndroidManifest.xml:22:9-51
+79            <intent-filter>
+79-->/Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/AndroidManifest.xml:24:9-27:25
+80                <action android:name="android.intent.action.MAIN" />
+80-->/Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/AndroidManifest.xml:25:13-65
+80-->/Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/AndroidManifest.xml:25:21-62
+81
+82                <category android:name="android.intent.category.LAUNCHER" />
+82-->/Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/AndroidManifest.xml:26:13-73
+82-->/Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/AndroidManifest.xml:26:23-70
+83            </intent-filter>
+84        </activity>
+85
+86        <provider
+86-->[:react-native-image-picker] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-18:20
+87            android:name="com.imagepicker.ImagePickerProvider"
+87-->[:react-native-image-picker] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-63
+88            android:authorities="com.capstone.imagepickerprovider"
+88-->[:react-native-image-picker] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-71
+89            android:exported="false"
+89-->[:react-native-image-picker] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-37
+90            android:grantUriPermissions="true" >
+90-->[:react-native-image-picker] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:13-47
+91            <meta-data
+91-->[:react-native-image-picker] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:13-17:70
+92                android:name="android.support.FILE_PROVIDER_PATHS"
+92-->[:react-native-image-picker] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:16:17-67
+93                android:resource="@xml/imagepicker_provider_paths" />
+93-->[:react-native-image-picker] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:17:17-67
+94        </provider>
+95        <provider
+95-->[:expo-file-system] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:23:9-32:20
+96            android:name="expo.modules.filesystem.FileSystemFileProvider"
+96-->[:expo-file-system] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:24:13-74
+97            android:authorities="com.capstone.FileSystemFileProvider"
+97-->[:expo-file-system] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:25:13-74
+98            android:exported="false"
+98-->[:expo-file-system] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:26:13-37
+99            android:grantUriPermissions="true" >
+99-->[:expo-file-system] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:27:13-47
+100            <meta-data
+100-->[:react-native-image-picker] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:13-17:70
+101                android:name="android.support.FILE_PROVIDER_PATHS"
+101-->[:react-native-image-picker] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:16:17-67
+102                android:resource="@xml/file_system_provider_paths" />
+102-->[:react-native-image-picker] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:17:17-67
+103        </provider>
+104
+105        <activity
+105-->[:expo-image-picker] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:29:9-31:59
+106            android:name="com.canhub.cropper.CropImageActivity"
+106-->[:expo-image-picker] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:30:13-64
+107            android:exported="true"
+107-->[com.github.CanHub:Android-Image-Cropper:4.3.0] /Users/kdcrafter10/.gradle/caches/transforms-3/305180749d6b5e3261860db0a0dc3afe/transformed/jetified-Android-Image-Cropper-4.3.0/AndroidManifest.xml:35:13-36
+108            android:theme="@style/Base.Theme.AppCompat" /> <!-- https://developer.android.com/guide/topics/manifest/provider-element.html -->
+108-->[:expo-image-picker] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:31:13-56
+109        <provider
+109-->[:expo-image-picker] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:33:9-41:20
+110            android:name="expo.modules.imagepicker.fileprovider.ImagePickerFileProvider"
+110-->[:expo-image-picker] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:34:13-89
+111            android:authorities="com.capstone.ImagePickerFileProvider"
+111-->[:expo-image-picker] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:35:13-75
+112            android:exported="false"
+112-->[:expo-image-picker] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:36:13-37
+113            android:grantUriPermissions="true" >
+113-->[:expo-image-picker] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:37:13-47
+114            <meta-data
+114-->[:react-native-image-picker] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:13-17:70
+115                android:name="android.support.FILE_PROVIDER_PATHS"
+115-->[:react-native-image-picker] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:16:17-67
+116                android:resource="@xml/image_picker_provider_paths" />
+116-->[:react-native-image-picker] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:17:17-67
+117        </provider>
+118
+119        <meta-data
+119-->[:expo-modules-core] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-modules-core/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-12:89
+120            android:name="org.unimodules.core.AppLoader#react-native-headless"
+120-->[:expo-modules-core] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-modules-core/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-79
+121            android:value="expo.modules.adapters.react.apploader.RNHeadlessAppLoader" />
+121-->[:expo-modules-core] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-modules-core/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-86
+122
+123        <provider
+123-->[com.github.CanHub:Android-Image-Cropper:4.3.0] /Users/kdcrafter10/.gradle/caches/transforms-3/305180749d6b5e3261860db0a0dc3afe/transformed/jetified-Android-Image-Cropper-4.3.0/AndroidManifest.xml:23:9-31:20
+124            android:name="com.canhub.cropper.CropFileProvider"
+124-->[com.github.CanHub:Android-Image-Cropper:4.3.0] /Users/kdcrafter10/.gradle/caches/transforms-3/305180749d6b5e3261860db0a0dc3afe/transformed/jetified-Android-Image-Cropper-4.3.0/AndroidManifest.xml:24:13-63
+125            android:authorities="com.capstone.cropper.fileprovider"
+125-->[com.github.CanHub:Android-Image-Cropper:4.3.0] /Users/kdcrafter10/.gradle/caches/transforms-3/305180749d6b5e3261860db0a0dc3afe/transformed/jetified-Android-Image-Cropper-4.3.0/AndroidManifest.xml:25:13-72
+126            android:exported="false"
+126-->[com.github.CanHub:Android-Image-Cropper:4.3.0] /Users/kdcrafter10/.gradle/caches/transforms-3/305180749d6b5e3261860db0a0dc3afe/transformed/jetified-Android-Image-Cropper-4.3.0/AndroidManifest.xml:26:13-37
+127            android:grantUriPermissions="true" >
+127-->[com.github.CanHub:Android-Image-Cropper:4.3.0] /Users/kdcrafter10/.gradle/caches/transforms-3/305180749d6b5e3261860db0a0dc3afe/transformed/jetified-Android-Image-Cropper-4.3.0/AndroidManifest.xml:27:13-47
+128            <meta-data
+128-->[:react-native-image-picker] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:13-17:70
+129                android:name="android.support.FILE_PROVIDER_PATHS"
+129-->[:react-native-image-picker] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:16:17-67
+130                android:resource="@xml/library_file_paths" />
+130-->[:react-native-image-picker] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:17:17-67
+131        </provider> <!-- This is here because the library did not update yet to Android 12 so we force the exported value when merging manifests -->
+132        <activity
+132-->[com.github.CanHub:Android-Image-Cropper:4.3.0] /Users/kdcrafter10/.gradle/caches/transforms-3/305180749d6b5e3261860db0a0dc3afe/transformed/jetified-Android-Image-Cropper-4.3.0/AndroidManifest.xml:38:9-45:20
+133            android:name="androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity"
+133-->[com.github.CanHub:Android-Image-Cropper:4.3.0] /Users/kdcrafter10/.gradle/caches/transforms-3/305180749d6b5e3261860db0a0dc3afe/transformed/jetified-Android-Image-Cropper-4.3.0/AndroidManifest.xml:39:13-99
+134            android:exported="true"
+134-->[com.github.CanHub:Android-Image-Cropper:4.3.0] /Users/kdcrafter10/.gradle/caches/transforms-3/305180749d6b5e3261860db0a0dc3afe/transformed/jetified-Android-Image-Cropper-4.3.0/AndroidManifest.xml:40:13-36
+135            android:theme="@android:style/Theme" >
+135-->[com.github.CanHub:Android-Image-Cropper:4.3.0] /Users/kdcrafter10/.gradle/caches/transforms-3/305180749d6b5e3261860db0a0dc3afe/transformed/jetified-Android-Image-Cropper-4.3.0/AndroidManifest.xml:41:13-49
+136            <intent-filter>
+136-->[com.github.CanHub:Android-Image-Cropper:4.3.0] /Users/kdcrafter10/.gradle/caches/transforms-3/305180749d6b5e3261860db0a0dc3afe/transformed/jetified-Android-Image-Cropper-4.3.0/AndroidManifest.xml:42:13-44:29
+137                <action android:name="android.intent.action.MAIN" />
+137-->/Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/AndroidManifest.xml:25:13-65
+137-->/Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/AndroidManifest.xml:25:21-62
+138            </intent-filter>
+139        </activity>
+140        <activity
+140-->[com.github.CanHub:Android-Image-Cropper:4.3.0] /Users/kdcrafter10/.gradle/caches/transforms-3/305180749d6b5e3261860db0a0dc3afe/transformed/jetified-Android-Image-Cropper-4.3.0/AndroidManifest.xml:46:9-53:20
+141            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity"
+141-->[com.github.CanHub:Android-Image-Cropper:4.3.0] /Users/kdcrafter10/.gradle/caches/transforms-3/305180749d6b5e3261860db0a0dc3afe/transformed/jetified-Android-Image-Cropper-4.3.0/AndroidManifest.xml:47:13-95
+142            android:exported="true"
+142-->[com.github.CanHub:Android-Image-Cropper:4.3.0] /Users/kdcrafter10/.gradle/caches/transforms-3/305180749d6b5e3261860db0a0dc3afe/transformed/jetified-Android-Image-Cropper-4.3.0/AndroidManifest.xml:48:13-36
+143            android:theme="@android:style/Theme" >
+143-->[com.github.CanHub:Android-Image-Cropper:4.3.0] /Users/kdcrafter10/.gradle/caches/transforms-3/305180749d6b5e3261860db0a0dc3afe/transformed/jetified-Android-Image-Cropper-4.3.0/AndroidManifest.xml:49:13-49
+144            <intent-filter>
+144-->[com.github.CanHub:Android-Image-Cropper:4.3.0] /Users/kdcrafter10/.gradle/caches/transforms-3/305180749d6b5e3261860db0a0dc3afe/transformed/jetified-Android-Image-Cropper-4.3.0/AndroidManifest.xml:42:13-44:29
+145                <action android:name="android.intent.action.MAIN" />
+145-->/Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/AndroidManifest.xml:25:13-65
+145-->/Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/AndroidManifest.xml:25:21-62
+146            </intent-filter>
+147        </activity>
+148        <activity
+148-->[com.github.CanHub:Android-Image-Cropper:4.3.0] /Users/kdcrafter10/.gradle/caches/transforms-3/305180749d6b5e3261860db0a0dc3afe/transformed/jetified-Android-Image-Cropper-4.3.0/AndroidManifest.xml:54:9-61:20
+149            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyFloatingActivity"
+149-->[com.github.CanHub:Android-Image-Cropper:4.3.0] /Users/kdcrafter10/.gradle/caches/transforms-3/305180749d6b5e3261860db0a0dc3afe/transformed/jetified-Android-Image-Cropper-4.3.0/AndroidManifest.xml:55:13-103
+150            android:exported="true"
+150-->[com.github.CanHub:Android-Image-Cropper:4.3.0] /Users/kdcrafter10/.gradle/caches/transforms-3/305180749d6b5e3261860db0a0dc3afe/transformed/jetified-Android-Image-Cropper-4.3.0/AndroidManifest.xml:56:13-36
+151            android:theme="@android:style/Theme.Dialog" >
+151-->[com.github.CanHub:Android-Image-Cropper:4.3.0] /Users/kdcrafter10/.gradle/caches/transforms-3/305180749d6b5e3261860db0a0dc3afe/transformed/jetified-Android-Image-Cropper-4.3.0/AndroidManifest.xml:57:13-56
+152            <intent-filter>
+152-->[com.github.CanHub:Android-Image-Cropper:4.3.0] /Users/kdcrafter10/.gradle/caches/transforms-3/305180749d6b5e3261860db0a0dc3afe/transformed/jetified-Android-Image-Cropper-4.3.0/AndroidManifest.xml:42:13-44:29
+153                <action android:name="android.intent.action.MAIN" />
+153-->/Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/AndroidManifest.xml:25:13-65
+153-->/Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/AndroidManifest.xml:25:21-62
+154            </intent-filter>
+155        </activity>
+156
+157        <meta-data
+157-->[com.github.bumptech.glide:okhttp3-integration:4.12.0] /Users/kdcrafter10/.gradle/caches/transforms-3/946279f6a850cbad45365fe5aa0b51df/transformed/jetified-okhttp3-integration-4.12.0/AndroidManifest.xml:11:9-13:43
+158            android:name="com.bumptech.glide.integration.okhttp3.OkHttpGlideModule"
+158-->[com.github.bumptech.glide:okhttp3-integration:4.12.0] /Users/kdcrafter10/.gradle/caches/transforms-3/946279f6a850cbad45365fe5aa0b51df/transformed/jetified-okhttp3-integration-4.12.0/AndroidManifest.xml:12:13-84
+159            android:value="GlideModule" />
+159-->[com.github.bumptech.glide:okhttp3-integration:4.12.0] /Users/kdcrafter10/.gradle/caches/transforms-3/946279f6a850cbad45365fe5aa0b51df/transformed/jetified-okhttp3-integration-4.12.0/AndroidManifest.xml:13:13-40
+160
+161        <provider
+161-->[androidx.emoji2:emoji2:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/31798a0ea3f25ea98e44c876b4851b08/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+162            android:name="androidx.startup.InitializationProvider"
+162-->[androidx.emoji2:emoji2:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/31798a0ea3f25ea98e44c876b4851b08/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:27:13-67
+163            android:authorities="com.capstone.androidx-startup"
+163-->[androidx.emoji2:emoji2:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/31798a0ea3f25ea98e44c876b4851b08/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:28:13-68
+164            android:exported="false" >
+164-->[androidx.emoji2:emoji2:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/31798a0ea3f25ea98e44c876b4851b08/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:29:13-37
+165            <meta-data
+165-->[androidx.emoji2:emoji2:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/31798a0ea3f25ea98e44c876b4851b08/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+166                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+166-->[androidx.emoji2:emoji2:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/31798a0ea3f25ea98e44c876b4851b08/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:32:17-75
+167                android:value="androidx.startup" />
+167-->[androidx.emoji2:emoji2:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/31798a0ea3f25ea98e44c876b4851b08/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
+168            <meta-data
+168-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/kdcrafter10/.gradle/caches/transforms-3/39517e1b011367242185b54afc0b3c9e/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+169                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+169-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/kdcrafter10/.gradle/caches/transforms-3/39517e1b011367242185b54afc0b3c9e/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
+170                android:value="androidx.startup" />
+170-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/kdcrafter10/.gradle/caches/transforms-3/39517e1b011367242185b54afc0b3c9e/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+171        </provider>
+172    </application>
+173
+174</manifest>

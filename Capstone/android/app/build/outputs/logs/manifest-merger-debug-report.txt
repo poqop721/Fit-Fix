@@ -1,0 +1,735 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/AndroidManifest.xml:1:1-30:12
+MERGED from /Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/AndroidManifest.xml:1:1-30:12
+MERGED from [com.facebook.flipper:flipper:0.125.0] /Users/kdcrafter10/.gradle/caches/transforms-3/95e931fbbfdb29d8fe263063f71e1fc3/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:8:1-18:12
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.125.0] /Users/kdcrafter10/.gradle/caches/transforms-3/d28c9738e0be5fb2f452abe19a3ad1e0/transformed/jetified-flipper-network-plugin-0.125.0/AndroidManifest.xml:8:1-15:12
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.125.0] /Users/kdcrafter10/.gradle/caches/transforms-3/3cdfe1d94f781b3cd4fe147ba3c7c694/transformed/jetified-flipper-fresco-plugin-0.125.0/AndroidManifest.xml:8:1-15:12
+MERGED from [:react-native-community_cameraroll] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/@react-native-community/cameraroll/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_masked-view] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/@react-native-community/masked-view/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-picker_picker] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/@react-native-picker/picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:expo] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-fast-image] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/react-native-fast-image/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-fs] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/react-native-fs/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-gesture-handler] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-image-picker] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-21:12
+MERGED from [:react-native-safe-area-context] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-splash-screen] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/react-native-splash-screen/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-vector-icons] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:expo-application] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-application/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:expo-av] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-av/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:expo-camera] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-camera/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-constants] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-constants/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:expo-error-recovery] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-error-recovery/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:expo-file-system] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-35:12
+MERGED from [:expo-font] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-font/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:expo-image-loader] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-image-loader/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:expo-image-picker] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-44:12
+MERGED from [:expo-keep-awake] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-keep-awake/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:expo-splash-screen] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-splash-screen/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:expo-modules-core] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-modules-core/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-15:12
+MERGED from [com.facebook.react:react-native:0.69.6] /Users/kdcrafter10/.gradle/caches/transforms-3/a1f457d0144ca099e774cdc47135ea7a/transformed/jetified-react-native-0.69.6-debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android:cameraview:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/2aa3eb7ffad3a6af6a0c4f4b4098f2c3/transformed/jetified-cameraview-1.0.0/AndroidManifest.xml:14:1-34:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/b79d8bd305c4db607db6eab005acf43d/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/0aed1c829d732dda8aac032e4d8412e1/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/3b08b05d095aecca6b9a932f37321fd9/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [org.webkit:android-jsc:r250230] /Users/kdcrafter10/.gradle/caches/transforms-3/8d2a6f202e056d77debe3b0f1946991e/transformed/jetified-android-jsc-r250230/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.fresco:animated-gif:2.6.0] /Users/kdcrafter10/.gradle/caches/transforms-3/6e3fd13bf57dc76d56ff8ff7eb43807c/transformed/jetified-animated-gif-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-reanimated] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/react-native-reanimated/android/build/.transforms/67ded96c19e375008ddf3811ed9b11dc/transformed/jetified-react-native-reanimated-69-jsc/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:flipper:2.6.0] /Users/kdcrafter10/.gradle/caches/transforms-3/60284a14b84135e46ae93947a05c5c5b/transformed/jetified-flipper-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:stetho:2.6.0] /Users/kdcrafter10/.gradle/caches/transforms-3/878eb9a4b5af596d6ddc74101bf0608b/transformed/jetified-stetho-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fresco:2.6.0] /Users/kdcrafter10/.gradle/caches/transforms-3/b71992f7af8a3455d0a7202e282fb3e6/transformed/jetified-fresco-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:soloader:2.6.0] /Users/kdcrafter10/.gradle/caches/transforms-3/7b54771e3d287183d818d4195061b80a/transformed/jetified-soloader-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /Users/kdcrafter10/.gradle/caches/transforms-3/a5fde2483085545a9a020847695505c8/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:animated-base:2.6.0] /Users/kdcrafter10/.gradle/caches/transforms-3/4a7d4e348437c55b57754baa15e0a63e/transformed/jetified-animated-base-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:animated-drawable:2.6.0] /Users/kdcrafter10/.gradle/caches/transforms-3/dab66d5bf9f508c9b9a6e26ea458d2b8/transformed/jetified-animated-drawable-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.6.0] /Users/kdcrafter10/.gradle/caches/transforms-3/cc00c2006db7e4175fd21aa12a960fca/transformed/jetified-drawee-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.6.0] /Users/kdcrafter10/.gradle/caches/transforms-3/398ee2772b89f7016c83ed64623ed368/transformed/jetified-nativeimagefilters-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-native:2.6.0] /Users/kdcrafter10/.gradle/caches/transforms-3/c5f334f8286d6186bc8f628a5a1c8e04/transformed/jetified-memory-type-native-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-java:2.6.0] /Users/kdcrafter10/.gradle/caches/transforms-3/c4676ecf9cb941fd89a7785bfbc91877/transformed/jetified-memory-type-java-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-native:2.6.0] /Users/kdcrafter10/.gradle/caches/transforms-3/e23b6c2a81f5598ac15e4f7c0f0d533d/transformed/jetified-imagepipeline-native-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.10.3] /Users/kdcrafter10/.gradle/caches/transforms-3/6c9a0e479a14c325c767b3e86ad822cb/transformed/jetified-soloader-0.10.3/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.6.0] /Users/kdcrafter10/.gradle/caches/transforms-3/db201b9b5def1a4b9784b4497516f646/transformed/jetified-memory-type-ashmem-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.6.0] /Users/kdcrafter10/.gradle/caches/transforms-3/4ac8f752cdaec91e9f610ef0247aef66/transformed/jetified-imagepipeline-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.6.0] /Users/kdcrafter10/.gradle/caches/transforms-3/fc1be6edc7fab7727b474c960dcf35ee/transformed/jetified-nativeimagetranscoder-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.6.0] /Users/kdcrafter10/.gradle/caches/transforms-3/b37d4cff5fcf3cf7a35d15ade6c008ee/transformed/jetified-imagepipeline-base-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.1.0] /Users/kdcrafter10/.gradle/caches/transforms-3/19f285c5360101e74a65ffd2dd8f0c51/transformed/material-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.CanHub:Android-Image-Cropper:4.3.0] /Users/kdcrafter10/.gradle/caches/transforms-3/305180749d6b5e3261860db0a0dc3afe/transformed/jetified-Android-Image-Cropper-4.3.0/AndroidManifest.xml:2:1-64:12
+MERGED from [androidx.appcompat:appcompat:1.4.2] /Users/kdcrafter10/.gradle/caches/transforms-3/2d287c29e5989ac851bf18899d856a2d/transformed/appcompat-1.4.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/kdcrafter10/.gradle/caches/transforms-3/af791579fa0af45f5fe21f37c3748e32/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.2] /Users/kdcrafter10/.gradle/caches/transforms-3/2347f679ce9c9bf9e6fcd7d7b36527be/transformed/jetified-appcompat-resources-1.4.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.autofill:autofill:1.1.0] /Users/kdcrafter10/.gradle/caches/transforms-3/03961bb39c5326193b471a32a366795f/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:middleware:2.6.0] /Users/kdcrafter10/.gradle/caches/transforms-3/84d0f8f797135dc2bbc02d3140bc824e/transformed/jetified-middleware-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:ui-common:2.6.0] /Users/kdcrafter10/.gradle/caches/transforms-3/68677fb7c27918c0ed65aa4eb422a170/transformed/jetified-ui-common-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.12.0] /Users/kdcrafter10/.gradle/caches/transforms-3/946279f6a850cbad45365fe5aa0b51df/transformed/jetified-okhttp3-integration-4.12.0/AndroidManifest.xml:2:1-16:12
+MERGED from [com.google.android.exoplayer:extension-okhttp:2.13.3] /Users/kdcrafter10/.gradle/caches/transforms-3/6d4ead2d1d8ac8bf3f4f83dff42ee848/transformed/jetified-extension-okhttp-2.13.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.4.1] /Users/kdcrafter10/.gradle/caches/transforms-3/6f1374cd3c4fd8fe63f3168e78620f98/transformed/jetified-fragment-ktx-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.4.0] /Users/kdcrafter10/.gradle/caches/transforms-3/28beafe97a70986860158d294458cc88/transformed/jetified-activity-ktx-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /Users/kdcrafter10/.gradle/caches/transforms-3/aabe1fbbae6e17c142f3442b081d6422/transformed/jetified-lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /Users/kdcrafter10/.gradle/caches/transforms-3/098f5cf11dc298cabfc1f8625a9c5b8f/transformed/jetified-lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:glide:4.12.0] /Users/kdcrafter10/.gradle/caches/transforms-3/c620de569890dff5fb53a8fdf1d40553/transformed/jetified-glide-4.12.0/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/kdcrafter10/.gradle/caches/transforms-3/6afad4ecd3a57249bbfd25877602d3c5/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/1bd2365acb235464b453b7b03dd90348/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/f5cacfba5241f8337678d0b4c141c9dd/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.4.1] /Users/kdcrafter10/.gradle/caches/transforms-3/f93ee40f4c661e01628bba29cdb8b329/transformed/fragment-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.6.0] /Users/kdcrafter10/.gradle/caches/transforms-3/6362dee607cba3e65f4f5cc5b2277067/transformed/jetified-core-ktx-1.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] /Users/kdcrafter10/.gradle/caches/transforms-3/ce361e86c9554dd0c7a0543919a90138/transformed/exifinterface-1.3.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/kdcrafter10/.gradle/caches/transforms-3/bcc96c010b0705c2f6d616eca2e71ddc/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/kdcrafter10/.gradle/caches/transforms-3/31689151159397f35f0a3d96b1b29f20/transformed/sqlite-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/kdcrafter10/.gradle/caches/transforms-3/a410214197f60a0315fde752e36a1014/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] /Users/kdcrafter10/.gradle/caches/transforms-3/a07b0e5e563fb239d2b7279f127e14b0/transformed/jetified-gifdecoder-4.12.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/kdcrafter10/.gradle/caches/transforms-3/6d9cb8d42e2c2c5cd7d720173f19043e/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.4.0] /Users/kdcrafter10/.gradle/caches/transforms-3/a142b144c4e09516e22f03182c52fb7a/transformed/jetified-activity-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/607dbd8b3f74350d5e0a1736955cde95/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.exoplayer:exoplayer:2.13.3] /Users/kdcrafter10/.gradle/caches/transforms-3/4cb5b983e7e42104b7f3576fa205add3/transformed/jetified-exoplayer-2.13.3/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.13.3] /Users/kdcrafter10/.gradle/caches/transforms-3/7dddaf604c6c684c77ace7b399328729/transformed/jetified-exoplayer-ui-2.13.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/kdcrafter10/.gradle/caches/transforms-3/53bb7747ac6d25b5b5c01c486350bba9/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/8eb839291185694136d07de82a71f4d5/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/aa42fed3d80bc3616722d230a3819264/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/eed9b36b9e70378034b4f2442d96e374/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/6c6baa764c8f57715a8672dfc7002753/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/87b475518df9964e6e897f77f90ac931/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/31798a0ea3f25ea98e44c876b4851b08/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/532c3dd03b809b798ed9ee920d34c1ec/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.2.1] /Users/kdcrafter10/.gradle/caches/transforms-3/e230c7061723895f9e31d254609369b7/transformed/media-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/6c8c886887f7545f90d5010d5777bde1/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.7.0] /Users/kdcrafter10/.gradle/caches/transforms-3/b5a8e99dac667ebea08e9f9757d3b404/transformed/core-1.7.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/kdcrafter10/.gradle/caches/transforms-3/22694210e67a081ec48957ef432ff03d/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/c8cd6e3e8fc63494683ed420205b6ed7/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.13.3] /Users/kdcrafter10/.gradle/caches/transforms-3/bfb1fb4d02be0ca8930c34ef80680b33/transformed/jetified-exoplayer-dash-2.13.3/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.13.3] /Users/kdcrafter10/.gradle/caches/transforms-3/ba3a66690a6f6d957ddbf3b58bea48cb/transformed/jetified-exoplayer-hls-2.13.3/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.13.3] /Users/kdcrafter10/.gradle/caches/transforms-3/8587457254d64f625934d54f6c5cfdbf/transformed/jetified-exoplayer-smoothstreaming-2.13.3/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-transformer:2.13.3] /Users/kdcrafter10/.gradle/caches/transforms-3/5aade0185788db406957e674fad071c6/transformed/jetified-exoplayer-transformer-2.13.3/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.13.3] /Users/kdcrafter10/.gradle/caches/transforms-3/2d13c7d0639f2f5a8cc3096e0876f74d/transformed/jetified-exoplayer-core-2.13.3/AndroidManifest.xml:17:1-26:12
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.13.3] /Users/kdcrafter10/.gradle/caches/transforms-3/81eef8bcee1cfeca9d1db0e8fe8f4804/transformed/jetified-exoplayer-extractor-2.13.3/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.13.3] /Users/kdcrafter10/.gradle/caches/transforms-3/c6c5dfdc0769d9f2aa1860ab476c7cea/transformed/jetified-exoplayer-common-2.13.3/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/kdcrafter10/.gradle/caches/transforms-3/ce3bd6ddf2c71b855c92a6ed93215d5a/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/kdcrafter10/.gradle/caches/transforms-3/42704fbbed6008efb81a97a397c75d93/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/cdaf307b979cf590079b063106fa494b/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /Users/kdcrafter10/.gradle/caches/transforms-3/144b339af0eb8738ffb87c4812fb9c02/transformed/jetified-savedstate-ktx-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/kdcrafter10/.gradle/caches/transforms-3/abc5edb0f6f7d036cc231847ca5a4e48/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:viewbinding:7.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/8fd98b2bca5f1f2109e04bb42150533b/transformed/jetified-viewbinding-7.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/kdcrafter10/.gradle/caches/transforms-3/39517e1b011367242185b54afc0b3c9e/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/bf5c3c76aa1a63b86455021de73134fc/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/db3beb0a70c6e44ebd46005167abe19a/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/5a49aa9205d4b10433db709ac1fe3087/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/979823ea81f72bc3c0e2402600e977ee/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/2e79bd92b8908357e4d9334a20ee7fe5/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /Users/kdcrafter10/.gradle/caches/transforms-3/9dd5f252728f1be6851bcc6450783cb6/transformed/jetified-lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/eca0a527b3f4af3e07aabfe726222252/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/kdcrafter10/.gradle/caches/transforms-3/88dd53ff36c32dd8b63b153fae4ebc62/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/kdcrafter10/.gradle/caches/transforms-3/de8b3606f91681ff7f3b124361e4b57f/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/kdcrafter10/.gradle/caches/transforms-3/e1e2671c25aa40016a0cc25fb3c7354f/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:fbcore:2.6.0] /Users/kdcrafter10/.gradle/caches/transforms-3/b232a205ced66516aba7f645188ca8c4/transformed/jetified-fbcore-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.installreferrer:installreferrer:1.0] /Users/kdcrafter10/.gradle/caches/transforms-3/32b3a4418e69f248993678d5ad5cb73f/transformed/jetified-installreferrer-1.0/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/kdcrafter10/.gradle/caches/transforms-3/f1165b3f0730928c597e7ea26b1247fd/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/debug/AndroidManifest.xml:2:1-13:12
+INJECTED from /Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/debug/AndroidManifest.xml:2:1-13:12
+INJECTED from /Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/debug/AndroidManifest.xml:2:1-13:12
+	package
+		ADDED from /Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/AndroidManifest.xml:2:3-25
+		INJECTED from /Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/AndroidManifest.xml:2:3-25
+		INJECTED from /Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/AndroidManifest.xml:1:1-30:12
+		INJECTED from /Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/AndroidManifest.xml:1:1-30:12
+		INJECTED from /Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [com.facebook.flipper:flipper:0.125.0] /Users/kdcrafter10/.gradle/caches/transforms-3/95e931fbbfdb29d8fe263063f71e1fc3/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:15:5-67
+MERGED from [com.facebook.flipper:flipper:0.125.0] /Users/kdcrafter10/.gradle/caches/transforms-3/95e931fbbfdb29d8fe263063f71e1fc3/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:15:5-67
+MERGED from [:expo-file-system] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-67
+MERGED from [:expo-file-system] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from /Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/AndroidManifest.xml:5:5-80
+MERGED from [:expo-file-system] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:5-80
+MERGED from [:expo-file-system] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:5-80
+MERGED from [:expo-image-picker] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:5-80
+MERGED from [:expo-image-picker] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from /Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/AndroidManifest.xml:5:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/AndroidManifest.xml:6:5-81
+MERGED from [:react-native-fs] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/react-native-fs/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-81
+MERGED from [:react-native-fs] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/react-native-fs/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-81
+MERGED from [:expo-file-system] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-81
+MERGED from [:expo-file-system] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-81
+MERGED from [:expo-image-picker] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:5-81
+MERGED from [:expo-image-picker] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from /Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/AndroidManifest.xml:6:22-78
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/AndroidManifest.xml:7:5-71
+	android:name
+		ADDED from /Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/AndroidManifest.xml:7:22-68
+uses-feature#android.hardware.microphone
+ADDED from /Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/AndroidManifest.xml:8:5-89
+	android:required
+		ADDED from /Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/AndroidManifest.xml:8:62-86
+	android:name
+		ADDED from /Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/AndroidManifest.xml:8:19-61
+application
+ADDED from /Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/AndroidManifest.xml:10:5-29:19
+MERGED from /Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/AndroidManifest.xml:10:5-29:19
+MERGED from /Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/AndroidManifest.xml:10:5-29:19
+MERGED from [:react-native-image-picker] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-19:19
+MERGED from [:react-native-image-picker] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-19:19
+MERGED from [:expo-file-system] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:22:5-33:19
+MERGED from [:expo-file-system] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:22:5-33:19
+MERGED from [:expo-image-picker] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:28:5-42:19
+MERGED from [:expo-image-picker] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:28:5-42:19
+MERGED from [:expo-modules-core] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-modules-core/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-13:19
+MERGED from [:expo-modules-core] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-modules-core/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-13:19
+MERGED from [com.facebook.react:react-native:0.69.6] /Users/kdcrafter10/.gradle/caches/transforms-3/a1f457d0144ca099e774cdc47135ea7a/transformed/jetified-react-native-0.69.6-debug/AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.react:react-native:0.69.6] /Users/kdcrafter10/.gradle/caches/transforms-3/a1f457d0144ca099e774cdc47135ea7a/transformed/jetified-react-native-0.69.6-debug/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android:cameraview:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/2aa3eb7ffad3a6af6a0c4f4b4098f2c3/transformed/jetified-cameraview-1.0.0/AndroidManifest.xml:32:5-20
+MERGED from [com.google.android:cameraview:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/2aa3eb7ffad3a6af6a0c4f4b4098f2c3/transformed/jetified-cameraview-1.0.0/AndroidManifest.xml:32:5-20
+MERGED from [com.facebook.soloader:soloader:0.10.3] /Users/kdcrafter10/.gradle/caches/transforms-3/6c9a0e479a14c325c767b3e86ad822cb/transformed/jetified-soloader-0.10.3/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.10.3] /Users/kdcrafter10/.gradle/caches/transforms-3/6c9a0e479a14c325c767b3e86ad822cb/transformed/jetified-soloader-0.10.3/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/kdcrafter10/.gradle/caches/transforms-3/19f285c5360101e74a65ffd2dd8f0c51/transformed/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/kdcrafter10/.gradle/caches/transforms-3/19f285c5360101e74a65ffd2dd8f0c51/transformed/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.github.CanHub:Android-Image-Cropper:4.3.0] /Users/kdcrafter10/.gradle/caches/transforms-3/305180749d6b5e3261860db0a0dc3afe/transformed/jetified-Android-Image-Cropper-4.3.0/AndroidManifest.xml:22:5-62:19
+MERGED from [com.github.CanHub:Android-Image-Cropper:4.3.0] /Users/kdcrafter10/.gradle/caches/transforms-3/305180749d6b5e3261860db0a0dc3afe/transformed/jetified-Android-Image-Cropper-4.3.0/AndroidManifest.xml:22:5-62:19
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.12.0] /Users/kdcrafter10/.gradle/caches/transforms-3/946279f6a850cbad45365fe5aa0b51df/transformed/jetified-okhttp3-integration-4.12.0/AndroidManifest.xml:10:5-14:19
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.12.0] /Users/kdcrafter10/.gradle/caches/transforms-3/946279f6a850cbad45365fe5aa0b51df/transformed/jetified-okhttp3-integration-4.12.0/AndroidManifest.xml:10:5-14:19
+MERGED from [com.github.bumptech.glide:glide:4.12.0] /Users/kdcrafter10/.gradle/caches/transforms-3/c620de569890dff5fb53a8fdf1d40553/transformed/jetified-glide-4.12.0/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.12.0] /Users/kdcrafter10/.gradle/caches/transforms-3/c620de569890dff5fb53a8fdf1d40553/transformed/jetified-glide-4.12.0/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] /Users/kdcrafter10/.gradle/caches/transforms-3/a07b0e5e563fb239d2b7279f127e14b0/transformed/jetified-gifdecoder-4.12.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] /Users/kdcrafter10/.gradle/caches/transforms-3/a07b0e5e563fb239d2b7279f127e14b0/transformed/jetified-gifdecoder-4.12.0/AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/31798a0ea3f25ea98e44c876b4851b08/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/31798a0ea3f25ea98e44c876b4851b08/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.core:core:1.7.0] /Users/kdcrafter10/.gradle/caches/transforms-3/b5a8e99dac667ebea08e9f9757d3b404/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] /Users/kdcrafter10/.gradle/caches/transforms-3/b5a8e99dac667ebea08e9f9757d3b404/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/kdcrafter10/.gradle/caches/transforms-3/22694210e67a081ec48957ef432ff03d/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/kdcrafter10/.gradle/caches/transforms-3/22694210e67a081ec48957ef432ff03d/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/kdcrafter10/.gradle/caches/transforms-3/39517e1b011367242185b54afc0b3c9e/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/kdcrafter10/.gradle/caches/transforms-3/39517e1b011367242185b54afc0b3c9e/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/bf5c3c76aa1a63b86455021de73134fc/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/bf5c3c76aa1a63b86455021de73134fc/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [com.android.installreferrer:installreferrer:1.0] /Users/kdcrafter10/.gradle/caches/transforms-3/32b3a4418e69f248993678d5ad5cb73f/transformed/jetified-installreferrer-1.0/AndroidManifest.xml:11:5-20
+MERGED from [com.android.installreferrer:installreferrer:1.0] /Users/kdcrafter10/.gradle/caches/transforms-3/32b3a4418e69f248993678d5ad5cb73f/transformed/jetified-installreferrer-1.0/AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] /Users/kdcrafter10/.gradle/caches/transforms-3/b5a8e99dac667ebea08e9f9757d3b404/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/AndroidManifest.xml:12:7-39
+		ADDED from /Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/AndroidManifest.xml:12:7-39
+	tools:ignore
+		ADDED from /Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/debug/AndroidManifest.xml:10:9-48
+	android:roundIcon
+		ADDED from /Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/AndroidManifest.xml:14:7-46
+		ADDED from /Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/AndroidManifest.xml:14:7-46
+	tools:targetApi
+		ADDED from /Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/debug/AndroidManifest.xml:9:9-29
+	android:icon
+		ADDED from /Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/AndroidManifest.xml:13:7-41
+		ADDED from /Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/AndroidManifest.xml:13:7-41
+	android:allowBackup
+		ADDED from /Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/AndroidManifest.xml:15:7-34
+		ADDED from /Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/AndroidManifest.xml:15:7-34
+	android:theme
+		ADDED from /Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/AndroidManifest.xml:16:7-38
+		ADDED from /Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/AndroidManifest.xml:16:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/debug/AndroidManifest.xml:8:9-44
+	android:name
+		ADDED from /Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/AndroidManifest.xml:11:7-38
+		ADDED from /Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/AndroidManifest.xml:11:7-38
+activity#com.capstone.MainActivity
+ADDED from /Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/AndroidManifest.xml:17:7-28:18
+	android:label
+		ADDED from /Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/AndroidManifest.xml:19:9-41
+	android:launchMode
+		ADDED from /Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/AndroidManifest.xml:21:9-40
+	android:windowSoftInputMode
+		ADDED from /Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/AndroidManifest.xml:22:9-51
+	android:exported
+		ADDED from /Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/AndroidManifest.xml:23:9-32
+	android:configChanges
+		ADDED from /Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/AndroidManifest.xml:20:9-118
+	android:name
+		ADDED from /Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/AndroidManifest.xml:18:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/AndroidManifest.xml:24:9-27:25
+action#android.intent.action.MAIN
+ADDED from /Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/AndroidManifest.xml:25:13-65
+	android:name
+		ADDED from /Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/AndroidManifest.xml:25:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/AndroidManifest.xml:26:13-73
+	android:name
+		ADDED from /Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/AndroidManifest.xml:26:23-70
+uses-sdk
+INJECTED from /Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.flipper:flipper:0.125.0] /Users/kdcrafter10/.gradle/caches/transforms-3/95e931fbbfdb29d8fe263063f71e1fc3/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper:0.125.0] /Users/kdcrafter10/.gradle/caches/transforms-3/95e931fbbfdb29d8fe263063f71e1fc3/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.125.0] /Users/kdcrafter10/.gradle/caches/transforms-3/d28c9738e0be5fb2f452abe19a3ad1e0/transformed/jetified-flipper-network-plugin-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.125.0] /Users/kdcrafter10/.gradle/caches/transforms-3/d28c9738e0be5fb2f452abe19a3ad1e0/transformed/jetified-flipper-network-plugin-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.125.0] /Users/kdcrafter10/.gradle/caches/transforms-3/3cdfe1d94f781b3cd4fe147ba3c7c694/transformed/jetified-flipper-fresco-plugin-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.125.0] /Users/kdcrafter10/.gradle/caches/transforms-3/3cdfe1d94f781b3cd4fe147ba3c7c694/transformed/jetified-flipper-fresco-plugin-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [:react-native-community_cameraroll] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/@react-native-community/cameraroll/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_cameraroll] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/@react-native-community/cameraroll/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_masked-view] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/@react-native-community/masked-view/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_masked-view] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/@react-native-community/masked-view/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-picker_picker] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/@react-native-picker/picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-picker_picker] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/@react-native-picker/picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:expo] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:expo] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-fast-image] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/react-native-fast-image/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-fast-image] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/react-native-fast-image/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-fs] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/react-native-fs/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-fs] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/react-native-fs/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-image-picker] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-image-picker] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-splash-screen] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/react-native-splash-screen/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-splash-screen] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/react-native-splash-screen/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:expo-application] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-application/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:expo-application] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-application/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:expo-av] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-av/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:expo-av] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-av/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:expo-camera] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-camera/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:expo-camera] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-camera/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:expo-constants] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-constants/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:expo-constants] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-constants/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:expo-error-recovery] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-error-recovery/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:expo-error-recovery] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-error-recovery/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:expo-file-system] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:6:5-8:41
+MERGED from [:expo-file-system] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:6:5-8:41
+MERGED from [:expo-font] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-font/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:expo-font] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-font/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:expo-image-loader] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-image-loader/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:expo-image-loader] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-image-loader/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:expo-image-picker] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:expo-image-picker] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:expo-keep-awake] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-keep-awake/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:expo-keep-awake] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-keep-awake/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:expo-splash-screen] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-splash-screen/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:expo-splash-screen] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-splash-screen/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:expo-modules-core] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-modules-core/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:expo-modules-core] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-modules-core/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.69.6] /Users/kdcrafter10/.gradle/caches/transforms-3/a1f457d0144ca099e774cdc47135ea7a/transformed/jetified-react-native-0.69.6-debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.69.6] /Users/kdcrafter10/.gradle/caches/transforms-3/a1f457d0144ca099e774cdc47135ea7a/transformed/jetified-react-native-0.69.6-debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android:cameraview:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/2aa3eb7ffad3a6af6a0c4f4b4098f2c3/transformed/jetified-cameraview-1.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android:cameraview:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/2aa3eb7ffad3a6af6a0c4f4b4098f2c3/transformed/jetified-cameraview-1.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/b79d8bd305c4db607db6eab005acf43d/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/b79d8bd305c4db607db6eab005acf43d/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/0aed1c829d732dda8aac032e4d8412e1/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/0aed1c829d732dda8aac032e4d8412e1/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/3b08b05d095aecca6b9a932f37321fd9/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/3b08b05d095aecca6b9a932f37321fd9/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [org.webkit:android-jsc:r250230] /Users/kdcrafter10/.gradle/caches/transforms-3/8d2a6f202e056d77debe3b0f1946991e/transformed/jetified-android-jsc-r250230/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r250230] /Users/kdcrafter10/.gradle/caches/transforms-3/8d2a6f202e056d77debe3b0f1946991e/transformed/jetified-android-jsc-r250230/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:animated-gif:2.6.0] /Users/kdcrafter10/.gradle/caches/transforms-3/6e3fd13bf57dc76d56ff8ff7eb43807c/transformed/jetified-animated-gif-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-gif:2.6.0] /Users/kdcrafter10/.gradle/caches/transforms-3/6e3fd13bf57dc76d56ff8ff7eb43807c/transformed/jetified-animated-gif-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-reanimated] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/react-native-reanimated/android/build/.transforms/67ded96c19e375008ddf3811ed9b11dc/transformed/jetified-react-native-reanimated-69-jsc/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-reanimated] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/react-native-reanimated/android/build/.transforms/67ded96c19e375008ddf3811ed9b11dc/transformed/jetified-react-native-reanimated-69-jsc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:flipper:2.6.0] /Users/kdcrafter10/.gradle/caches/transforms-3/60284a14b84135e46ae93947a05c5c5b/transformed/jetified-flipper-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:flipper:2.6.0] /Users/kdcrafter10/.gradle/caches/transforms-3/60284a14b84135e46ae93947a05c5c5b/transformed/jetified-flipper-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.6.0] /Users/kdcrafter10/.gradle/caches/transforms-3/878eb9a4b5af596d6ddc74101bf0608b/transformed/jetified-stetho-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.6.0] /Users/kdcrafter10/.gradle/caches/transforms-3/878eb9a4b5af596d6ddc74101bf0608b/transformed/jetified-stetho-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.6.0] /Users/kdcrafter10/.gradle/caches/transforms-3/b71992f7af8a3455d0a7202e282fb3e6/transformed/jetified-fresco-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.6.0] /Users/kdcrafter10/.gradle/caches/transforms-3/b71992f7af8a3455d0a7202e282fb3e6/transformed/jetified-fresco-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.6.0] /Users/kdcrafter10/.gradle/caches/transforms-3/7b54771e3d287183d818d4195061b80a/transformed/jetified-soloader-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.6.0] /Users/kdcrafter10/.gradle/caches/transforms-3/7b54771e3d287183d818d4195061b80a/transformed/jetified-soloader-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /Users/kdcrafter10/.gradle/caches/transforms-3/a5fde2483085545a9a020847695505c8/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /Users/kdcrafter10/.gradle/caches/transforms-3/a5fde2483085545a9a020847695505c8/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-base:2.6.0] /Users/kdcrafter10/.gradle/caches/transforms-3/4a7d4e348437c55b57754baa15e0a63e/transformed/jetified-animated-base-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-base:2.6.0] /Users/kdcrafter10/.gradle/caches/transforms-3/4a7d4e348437c55b57754baa15e0a63e/transformed/jetified-animated-base-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-drawable:2.6.0] /Users/kdcrafter10/.gradle/caches/transforms-3/dab66d5bf9f508c9b9a6e26ea458d2b8/transformed/jetified-animated-drawable-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-drawable:2.6.0] /Users/kdcrafter10/.gradle/caches/transforms-3/dab66d5bf9f508c9b9a6e26ea458d2b8/transformed/jetified-animated-drawable-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.6.0] /Users/kdcrafter10/.gradle/caches/transforms-3/cc00c2006db7e4175fd21aa12a960fca/transformed/jetified-drawee-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.6.0] /Users/kdcrafter10/.gradle/caches/transforms-3/cc00c2006db7e4175fd21aa12a960fca/transformed/jetified-drawee-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.6.0] /Users/kdcrafter10/.gradle/caches/transforms-3/398ee2772b89f7016c83ed64623ed368/transformed/jetified-nativeimagefilters-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.6.0] /Users/kdcrafter10/.gradle/caches/transforms-3/398ee2772b89f7016c83ed64623ed368/transformed/jetified-nativeimagefilters-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.6.0] /Users/kdcrafter10/.gradle/caches/transforms-3/c5f334f8286d6186bc8f628a5a1c8e04/transformed/jetified-memory-type-native-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.6.0] /Users/kdcrafter10/.gradle/caches/transforms-3/c5f334f8286d6186bc8f628a5a1c8e04/transformed/jetified-memory-type-native-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.6.0] /Users/kdcrafter10/.gradle/caches/transforms-3/c4676ecf9cb941fd89a7785bfbc91877/transformed/jetified-memory-type-java-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.6.0] /Users/kdcrafter10/.gradle/caches/transforms-3/c4676ecf9cb941fd89a7785bfbc91877/transformed/jetified-memory-type-java-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.6.0] /Users/kdcrafter10/.gradle/caches/transforms-3/e23b6c2a81f5598ac15e4f7c0f0d533d/transformed/jetified-imagepipeline-native-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.6.0] /Users/kdcrafter10/.gradle/caches/transforms-3/e23b6c2a81f5598ac15e4f7c0f0d533d/transformed/jetified-imagepipeline-native-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.10.3] /Users/kdcrafter10/.gradle/caches/transforms-3/6c9a0e479a14c325c767b3e86ad822cb/transformed/jetified-soloader-0.10.3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.10.3] /Users/kdcrafter10/.gradle/caches/transforms-3/6c9a0e479a14c325c767b3e86ad822cb/transformed/jetified-soloader-0.10.3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.6.0] /Users/kdcrafter10/.gradle/caches/transforms-3/db201b9b5def1a4b9784b4497516f646/transformed/jetified-memory-type-ashmem-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.6.0] /Users/kdcrafter10/.gradle/caches/transforms-3/db201b9b5def1a4b9784b4497516f646/transformed/jetified-memory-type-ashmem-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.6.0] /Users/kdcrafter10/.gradle/caches/transforms-3/4ac8f752cdaec91e9f610ef0247aef66/transformed/jetified-imagepipeline-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.6.0] /Users/kdcrafter10/.gradle/caches/transforms-3/4ac8f752cdaec91e9f610ef0247aef66/transformed/jetified-imagepipeline-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.6.0] /Users/kdcrafter10/.gradle/caches/transforms-3/fc1be6edc7fab7727b474c960dcf35ee/transformed/jetified-nativeimagetranscoder-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.6.0] /Users/kdcrafter10/.gradle/caches/transforms-3/fc1be6edc7fab7727b474c960dcf35ee/transformed/jetified-nativeimagetranscoder-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.6.0] /Users/kdcrafter10/.gradle/caches/transforms-3/b37d4cff5fcf3cf7a35d15ade6c008ee/transformed/jetified-imagepipeline-base-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.6.0] /Users/kdcrafter10/.gradle/caches/transforms-3/b37d4cff5fcf3cf7a35d15ade6c008ee/transformed/jetified-imagepipeline-base-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.1.0] /Users/kdcrafter10/.gradle/caches/transforms-3/19f285c5360101e74a65ffd2dd8f0c51/transformed/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /Users/kdcrafter10/.gradle/caches/transforms-3/19f285c5360101e74a65ffd2dd8f0c51/transformed/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.github.CanHub:Android-Image-Cropper:4.3.0] /Users/kdcrafter10/.gradle/caches/transforms-3/305180749d6b5e3261860db0a0dc3afe/transformed/jetified-Android-Image-Cropper-4.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.CanHub:Android-Image-Cropper:4.3.0] /Users/kdcrafter10/.gradle/caches/transforms-3/305180749d6b5e3261860db0a0dc3afe/transformed/jetified-Android-Image-Cropper-4.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.4.2] /Users/kdcrafter10/.gradle/caches/transforms-3/2d287c29e5989ac851bf18899d856a2d/transformed/appcompat-1.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.2] /Users/kdcrafter10/.gradle/caches/transforms-3/2d287c29e5989ac851bf18899d856a2d/transformed/appcompat-1.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/kdcrafter10/.gradle/caches/transforms-3/af791579fa0af45f5fe21f37c3748e32/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/kdcrafter10/.gradle/caches/transforms-3/af791579fa0af45f5fe21f37c3748e32/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.2] /Users/kdcrafter10/.gradle/caches/transforms-3/2347f679ce9c9bf9e6fcd7d7b36527be/transformed/jetified-appcompat-resources-1.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.2] /Users/kdcrafter10/.gradle/caches/transforms-3/2347f679ce9c9bf9e6fcd7d7b36527be/transformed/jetified-appcompat-resources-1.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.1.0] /Users/kdcrafter10/.gradle/caches/transforms-3/03961bb39c5326193b471a32a366795f/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.1.0] /Users/kdcrafter10/.gradle/caches/transforms-3/03961bb39c5326193b471a32a366795f/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:middleware:2.6.0] /Users/kdcrafter10/.gradle/caches/transforms-3/84d0f8f797135dc2bbc02d3140bc824e/transformed/jetified-middleware-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:middleware:2.6.0] /Users/kdcrafter10/.gradle/caches/transforms-3/84d0f8f797135dc2bbc02d3140bc824e/transformed/jetified-middleware-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.6.0] /Users/kdcrafter10/.gradle/caches/transforms-3/68677fb7c27918c0ed65aa4eb422a170/transformed/jetified-ui-common-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.6.0] /Users/kdcrafter10/.gradle/caches/transforms-3/68677fb7c27918c0ed65aa4eb422a170/transformed/jetified-ui-common-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.12.0] /Users/kdcrafter10/.gradle/caches/transforms-3/946279f6a850cbad45365fe5aa0b51df/transformed/jetified-okhttp3-integration-4.12.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.12.0] /Users/kdcrafter10/.gradle/caches/transforms-3/946279f6a850cbad45365fe5aa0b51df/transformed/jetified-okhttp3-integration-4.12.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.exoplayer:extension-okhttp:2.13.3] /Users/kdcrafter10/.gradle/caches/transforms-3/6d4ead2d1d8ac8bf3f4f83dff42ee848/transformed/jetified-extension-okhttp-2.13.3/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:extension-okhttp:2.13.3] /Users/kdcrafter10/.gradle/caches/transforms-3/6d4ead2d1d8ac8bf3f4f83dff42ee848/transformed/jetified-extension-okhttp-2.13.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.4.1] /Users/kdcrafter10/.gradle/caches/transforms-3/6f1374cd3c4fd8fe63f3168e78620f98/transformed/jetified-fragment-ktx-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.4.1] /Users/kdcrafter10/.gradle/caches/transforms-3/6f1374cd3c4fd8fe63f3168e78620f98/transformed/jetified-fragment-ktx-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.4.0] /Users/kdcrafter10/.gradle/caches/transforms-3/28beafe97a70986860158d294458cc88/transformed/jetified-activity-ktx-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.4.0] /Users/kdcrafter10/.gradle/caches/transforms-3/28beafe97a70986860158d294458cc88/transformed/jetified-activity-ktx-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /Users/kdcrafter10/.gradle/caches/transforms-3/aabe1fbbae6e17c142f3442b081d6422/transformed/jetified-lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /Users/kdcrafter10/.gradle/caches/transforms-3/aabe1fbbae6e17c142f3442b081d6422/transformed/jetified-lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /Users/kdcrafter10/.gradle/caches/transforms-3/098f5cf11dc298cabfc1f8625a9c5b8f/transformed/jetified-lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /Users/kdcrafter10/.gradle/caches/transforms-3/098f5cf11dc298cabfc1f8625a9c5b8f/transformed/jetified-lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:glide:4.12.0] /Users/kdcrafter10/.gradle/caches/transforms-3/c620de569890dff5fb53a8fdf1d40553/transformed/jetified-glide-4.12.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.12.0] /Users/kdcrafter10/.gradle/caches/transforms-3/c620de569890dff5fb53a8fdf1d40553/transformed/jetified-glide-4.12.0/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/kdcrafter10/.gradle/caches/transforms-3/6afad4ecd3a57249bbfd25877602d3c5/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/kdcrafter10/.gradle/caches/transforms-3/6afad4ecd3a57249bbfd25877602d3c5/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/1bd2365acb235464b453b7b03dd90348/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/1bd2365acb235464b453b7b03dd90348/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/f5cacfba5241f8337678d0b4c141c9dd/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/f5cacfba5241f8337678d0b4c141c9dd/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.4.1] /Users/kdcrafter10/.gradle/caches/transforms-3/f93ee40f4c661e01628bba29cdb8b329/transformed/fragment-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.4.1] /Users/kdcrafter10/.gradle/caches/transforms-3/f93ee40f4c661e01628bba29cdb8b329/transformed/fragment-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.6.0] /Users/kdcrafter10/.gradle/caches/transforms-3/6362dee607cba3e65f4f5cc5b2277067/transformed/jetified-core-ktx-1.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.6.0] /Users/kdcrafter10/.gradle/caches/transforms-3/6362dee607cba3e65f4f5cc5b2277067/transformed/jetified-core-ktx-1.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] /Users/kdcrafter10/.gradle/caches/transforms-3/ce361e86c9554dd0c7a0543919a90138/transformed/exifinterface-1.3.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] /Users/kdcrafter10/.gradle/caches/transforms-3/ce361e86c9554dd0c7a0543919a90138/transformed/exifinterface-1.3.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/kdcrafter10/.gradle/caches/transforms-3/bcc96c010b0705c2f6d616eca2e71ddc/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/kdcrafter10/.gradle/caches/transforms-3/bcc96c010b0705c2f6d616eca2e71ddc/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/kdcrafter10/.gradle/caches/transforms-3/31689151159397f35f0a3d96b1b29f20/transformed/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/kdcrafter10/.gradle/caches/transforms-3/31689151159397f35f0a3d96b1b29f20/transformed/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/kdcrafter10/.gradle/caches/transforms-3/a410214197f60a0315fde752e36a1014/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/kdcrafter10/.gradle/caches/transforms-3/a410214197f60a0315fde752e36a1014/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] /Users/kdcrafter10/.gradle/caches/transforms-3/a07b0e5e563fb239d2b7279f127e14b0/transformed/jetified-gifdecoder-4.12.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] /Users/kdcrafter10/.gradle/caches/transforms-3/a07b0e5e563fb239d2b7279f127e14b0/transformed/jetified-gifdecoder-4.12.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/kdcrafter10/.gradle/caches/transforms-3/6d9cb8d42e2c2c5cd7d720173f19043e/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/kdcrafter10/.gradle/caches/transforms-3/6d9cb8d42e2c2c5cd7d720173f19043e/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.4.0] /Users/kdcrafter10/.gradle/caches/transforms-3/a142b144c4e09516e22f03182c52fb7a/transformed/jetified-activity-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.4.0] /Users/kdcrafter10/.gradle/caches/transforms-3/a142b144c4e09516e22f03182c52fb7a/transformed/jetified-activity-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/607dbd8b3f74350d5e0a1736955cde95/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/607dbd8b3f74350d5e0a1736955cde95/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:exoplayer:2.13.3] /Users/kdcrafter10/.gradle/caches/transforms-3/4cb5b983e7e42104b7f3576fa205add3/transformed/jetified-exoplayer-2.13.3/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer:2.13.3] /Users/kdcrafter10/.gradle/caches/transforms-3/4cb5b983e7e42104b7f3576fa205add3/transformed/jetified-exoplayer-2.13.3/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.13.3] /Users/kdcrafter10/.gradle/caches/transforms-3/7dddaf604c6c684c77ace7b399328729/transformed/jetified-exoplayer-ui-2.13.3/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.13.3] /Users/kdcrafter10/.gradle/caches/transforms-3/7dddaf604c6c684c77ace7b399328729/transformed/jetified-exoplayer-ui-2.13.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/kdcrafter10/.gradle/caches/transforms-3/53bb7747ac6d25b5b5c01c486350bba9/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/kdcrafter10/.gradle/caches/transforms-3/53bb7747ac6d25b5b5c01c486350bba9/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/8eb839291185694136d07de82a71f4d5/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/8eb839291185694136d07de82a71f4d5/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/aa42fed3d80bc3616722d230a3819264/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/aa42fed3d80bc3616722d230a3819264/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/eed9b36b9e70378034b4f2442d96e374/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/eed9b36b9e70378034b4f2442d96e374/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/6c6baa764c8f57715a8672dfc7002753/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/6c6baa764c8f57715a8672dfc7002753/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/87b475518df9964e6e897f77f90ac931/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/87b475518df9964e6e897f77f90ac931/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/31798a0ea3f25ea98e44c876b4851b08/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/31798a0ea3f25ea98e44c876b4851b08/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.loader:loader:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/532c3dd03b809b798ed9ee920d34c1ec/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/532c3dd03b809b798ed9ee920d34c1ec/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.2.1] /Users/kdcrafter10/.gradle/caches/transforms-3/e230c7061723895f9e31d254609369b7/transformed/media-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.2.1] /Users/kdcrafter10/.gradle/caches/transforms-3/e230c7061723895f9e31d254609369b7/transformed/media-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/6c8c886887f7545f90d5010d5777bde1/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/6c8c886887f7545f90d5010d5777bde1/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.7.0] /Users/kdcrafter10/.gradle/caches/transforms-3/b5a8e99dac667ebea08e9f9757d3b404/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /Users/kdcrafter10/.gradle/caches/transforms-3/b5a8e99dac667ebea08e9f9757d3b404/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/kdcrafter10/.gradle/caches/transforms-3/22694210e67a081ec48957ef432ff03d/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/kdcrafter10/.gradle/caches/transforms-3/22694210e67a081ec48957ef432ff03d/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/c8cd6e3e8fc63494683ed420205b6ed7/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/c8cd6e3e8fc63494683ed420205b6ed7/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.13.3] /Users/kdcrafter10/.gradle/caches/transforms-3/bfb1fb4d02be0ca8930c34ef80680b33/transformed/jetified-exoplayer-dash-2.13.3/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.13.3] /Users/kdcrafter10/.gradle/caches/transforms-3/bfb1fb4d02be0ca8930c34ef80680b33/transformed/jetified-exoplayer-dash-2.13.3/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.13.3] /Users/kdcrafter10/.gradle/caches/transforms-3/ba3a66690a6f6d957ddbf3b58bea48cb/transformed/jetified-exoplayer-hls-2.13.3/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.13.3] /Users/kdcrafter10/.gradle/caches/transforms-3/ba3a66690a6f6d957ddbf3b58bea48cb/transformed/jetified-exoplayer-hls-2.13.3/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.13.3] /Users/kdcrafter10/.gradle/caches/transforms-3/8587457254d64f625934d54f6c5cfdbf/transformed/jetified-exoplayer-smoothstreaming-2.13.3/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.13.3] /Users/kdcrafter10/.gradle/caches/transforms-3/8587457254d64f625934d54f6c5cfdbf/transformed/jetified-exoplayer-smoothstreaming-2.13.3/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-transformer:2.13.3] /Users/kdcrafter10/.gradle/caches/transforms-3/5aade0185788db406957e674fad071c6/transformed/jetified-exoplayer-transformer-2.13.3/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-transformer:2.13.3] /Users/kdcrafter10/.gradle/caches/transforms-3/5aade0185788db406957e674fad071c6/transformed/jetified-exoplayer-transformer-2.13.3/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.13.3] /Users/kdcrafter10/.gradle/caches/transforms-3/2d13c7d0639f2f5a8cc3096e0876f74d/transformed/jetified-exoplayer-core-2.13.3/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.13.3] /Users/kdcrafter10/.gradle/caches/transforms-3/2d13c7d0639f2f5a8cc3096e0876f74d/transformed/jetified-exoplayer-core-2.13.3/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.13.3] /Users/kdcrafter10/.gradle/caches/transforms-3/81eef8bcee1cfeca9d1db0e8fe8f4804/transformed/jetified-exoplayer-extractor-2.13.3/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.13.3] /Users/kdcrafter10/.gradle/caches/transforms-3/81eef8bcee1cfeca9d1db0e8fe8f4804/transformed/jetified-exoplayer-extractor-2.13.3/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.13.3] /Users/kdcrafter10/.gradle/caches/transforms-3/c6c5dfdc0769d9f2aa1860ab476c7cea/transformed/jetified-exoplayer-common-2.13.3/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.13.3] /Users/kdcrafter10/.gradle/caches/transforms-3/c6c5dfdc0769d9f2aa1860ab476c7cea/transformed/jetified-exoplayer-common-2.13.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/kdcrafter10/.gradle/caches/transforms-3/ce3bd6ddf2c71b855c92a6ed93215d5a/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/kdcrafter10/.gradle/caches/transforms-3/ce3bd6ddf2c71b855c92a6ed93215d5a/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/kdcrafter10/.gradle/caches/transforms-3/42704fbbed6008efb81a97a397c75d93/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/kdcrafter10/.gradle/caches/transforms-3/42704fbbed6008efb81a97a397c75d93/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/cdaf307b979cf590079b063106fa494b/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/cdaf307b979cf590079b063106fa494b/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /Users/kdcrafter10/.gradle/caches/transforms-3/144b339af0eb8738ffb87c4812fb9c02/transformed/jetified-savedstate-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /Users/kdcrafter10/.gradle/caches/transforms-3/144b339af0eb8738ffb87c4812fb9c02/transformed/jetified-savedstate-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/kdcrafter10/.gradle/caches/transforms-3/abc5edb0f6f7d036cc231847ca5a4e48/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/kdcrafter10/.gradle/caches/transforms-3/abc5edb0f6f7d036cc231847ca5a4e48/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:7.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/8fd98b2bca5f1f2109e04bb42150533b/transformed/jetified-viewbinding-7.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:7.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/8fd98b2bca5f1f2109e04bb42150533b/transformed/jetified-viewbinding-7.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/kdcrafter10/.gradle/caches/transforms-3/39517e1b011367242185b54afc0b3c9e/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/kdcrafter10/.gradle/caches/transforms-3/39517e1b011367242185b54afc0b3c9e/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/bf5c3c76aa1a63b86455021de73134fc/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/bf5c3c76aa1a63b86455021de73134fc/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/db3beb0a70c6e44ebd46005167abe19a/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/db3beb0a70c6e44ebd46005167abe19a/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/5a49aa9205d4b10433db709ac1fe3087/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/5a49aa9205d4b10433db709ac1fe3087/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/979823ea81f72bc3c0e2402600e977ee/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/979823ea81f72bc3c0e2402600e977ee/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/2e79bd92b8908357e4d9334a20ee7fe5/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/2e79bd92b8908357e4d9334a20ee7fe5/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /Users/kdcrafter10/.gradle/caches/transforms-3/9dd5f252728f1be6851bcc6450783cb6/transformed/jetified-lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /Users/kdcrafter10/.gradle/caches/transforms-3/9dd5f252728f1be6851bcc6450783cb6/transformed/jetified-lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/eca0a527b3f4af3e07aabfe726222252/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/eca0a527b3f4af3e07aabfe726222252/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/kdcrafter10/.gradle/caches/transforms-3/88dd53ff36c32dd8b63b153fae4ebc62/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/kdcrafter10/.gradle/caches/transforms-3/88dd53ff36c32dd8b63b153fae4ebc62/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/kdcrafter10/.gradle/caches/transforms-3/de8b3606f91681ff7f3b124361e4b57f/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/kdcrafter10/.gradle/caches/transforms-3/de8b3606f91681ff7f3b124361e4b57f/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/kdcrafter10/.gradle/caches/transforms-3/e1e2671c25aa40016a0cc25fb3c7354f/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/kdcrafter10/.gradle/caches/transforms-3/e1e2671c25aa40016a0cc25fb3c7354f/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:fbcore:2.6.0] /Users/kdcrafter10/.gradle/caches/transforms-3/b232a205ced66516aba7f645188ca8c4/transformed/jetified-fbcore-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.6.0] /Users/kdcrafter10/.gradle/caches/transforms-3/b232a205ced66516aba7f645188ca8c4/transformed/jetified-fbcore-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.installreferrer:installreferrer:1.0] /Users/kdcrafter10/.gradle/caches/transforms-3/32b3a4418e69f248993678d5ad5cb73f/transformed/jetified-installreferrer-1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.installreferrer:installreferrer:1.0] /Users/kdcrafter10/.gradle/caches/transforms-3/32b3a4418e69f248993678d5ad5cb73f/transformed/jetified-installreferrer-1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/kdcrafter10/.gradle/caches/transforms-3/f1165b3f0730928c597e7ea26b1247fd/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/kdcrafter10/.gradle/caches/transforms-3/f1165b3f0730928c597e7ea26b1247fd/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/debug/AndroidManifest.xml:5:22-75
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/debug/AndroidManifest.xml:11:9-111
+	android:exported
+		ADDED from /Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/debug/AndroidManifest.xml:11:84-108
+	android:name
+		ADDED from /Users/kdcrafter10/Desktop/Capstone/Capstone/android/app/src/debug/AndroidManifest.xml:11:19-83
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.facebook.flipper:flipper:0.125.0] /Users/kdcrafter10/.gradle/caches/transforms-3/95e931fbbfdb29d8fe263063f71e1fc3/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:16:5-76
+	android:name
+		ADDED from [com.facebook.flipper:flipper:0.125.0] /Users/kdcrafter10/.gradle/caches/transforms-3/95e931fbbfdb29d8fe263063f71e1fc3/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:16:22-73
+provider#com.imagepicker.ImagePickerProvider
+ADDED from [:react-native-image-picker] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-18:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-picker] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:13-47
+	android:authorities
+		ADDED from [:react-native-image-picker] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-71
+	android:exported
+		ADDED from [:react-native-image-picker] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-37
+	android:name
+		ADDED from [:react-native-image-picker] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-63
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-image-picker] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:13-17:70
+	android:resource
+		ADDED from [:react-native-image-picker] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:17:17-67
+	android:name
+		ADDED from [:react-native-image-picker] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:16:17-67
+uses-permission#android.permission.CAMERA
+ADDED from [:expo-camera] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-camera/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-65
+MERGED from [:expo-image-picker] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-65
+MERGED from [:expo-image-picker] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-65
+MERGED from [com.google.android:cameraview:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/2aa3eb7ffad3a6af6a0c4f4b4098f2c3/transformed/jetified-cameraview-1.0.0/AndroidManifest.xml:23:5-65
+MERGED from [com.google.android:cameraview:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/2aa3eb7ffad3a6af6a0c4f4b4098f2c3/transformed/jetified-cameraview-1.0.0/AndroidManifest.xml:23:5-65
+	android:name
+		ADDED from [:expo-camera] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-camera/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:22-62
+queries
+ADDED from [:expo-file-system] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:5-20:15
+MERGED from [:expo-image-picker] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:5-26:15
+MERGED from [:expo-image-picker] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:5-26:15
+MERGED from [com.github.CanHub:Android-Image-Cropper:4.3.0] /Users/kdcrafter10/.gradle/caches/transforms-3/305180749d6b5e3261860db0a0dc3afe/transformed/jetified-Android-Image-Cropper-4.3.0/AndroidManifest.xml:9:5-20:15
+MERGED from [com.github.CanHub:Android-Image-Cropper:4.3.0] /Users/kdcrafter10/.gradle/caches/transforms-3/305180749d6b5e3261860db0a0dc3afe/transformed/jetified-Android-Image-Cropper-4.3.0/AndroidManifest.xml:9:5-20:15
+intent#action:name:android.intent.action.OPEN_DOCUMENT_TREE
+ADDED from [:expo-file-system] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:17:9-19:18
+action#android.intent.action.OPEN_DOCUMENT_TREE
+ADDED from [:expo-file-system] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:18:13-79
+	android:name
+		ADDED from [:expo-file-system] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:18:21-76
+provider#expo.modules.filesystem.FileSystemFileProvider
+ADDED from [:expo-file-system] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:23:9-32:20
+	android:grantUriPermissions
+		ADDED from [:expo-file-system] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:27:13-47
+	android:authorities
+		ADDED from [:expo-file-system] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:25:13-74
+	android:exported
+		ADDED from [:expo-file-system] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:26:13-37
+	tools:replace
+		ADDED from [:expo-file-system] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:28:13-48
+	android:name
+		ADDED from [:expo-file-system] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:24:13-74
+intent#action:name:android.media.action.IMAGE_CAPTURE
+ADDED from [:expo-image-picker] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:16:9-20:18
+action#android.media.action.IMAGE_CAPTURE
+ADDED from [:expo-image-picker] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:19:13-73
+	android:name
+		ADDED from [:expo-image-picker] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:19:21-70
+intent#action:name:android.media.action.ACTION_VIDEO_CAPTURE
+ADDED from [:expo-image-picker] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:21:9-25:18
+action#android.media.action.ACTION_VIDEO_CAPTURE
+ADDED from [:expo-image-picker] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:24:13-80
+	android:name
+		ADDED from [:expo-image-picker] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:24:21-77
+activity#com.canhub.cropper.CropImageActivity
+ADDED from [:expo-image-picker] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:29:9-31:59
+MERGED from [com.github.CanHub:Android-Image-Cropper:4.3.0] /Users/kdcrafter10/.gradle/caches/transforms-3/305180749d6b5e3261860db0a0dc3afe/transformed/jetified-Android-Image-Cropper-4.3.0/AndroidManifest.xml:33:9-35:39
+MERGED from [com.github.CanHub:Android-Image-Cropper:4.3.0] /Users/kdcrafter10/.gradle/caches/transforms-3/305180749d6b5e3261860db0a0dc3afe/transformed/jetified-Android-Image-Cropper-4.3.0/AndroidManifest.xml:33:9-35:39
+	android:exported
+		ADDED from [com.github.CanHub:Android-Image-Cropper:4.3.0] /Users/kdcrafter10/.gradle/caches/transforms-3/305180749d6b5e3261860db0a0dc3afe/transformed/jetified-Android-Image-Cropper-4.3.0/AndroidManifest.xml:35:13-36
+	android:theme
+		ADDED from [:expo-image-picker] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:31:13-56
+	android:name
+		ADDED from [:expo-image-picker] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:30:13-64
+provider#expo.modules.imagepicker.fileprovider.ImagePickerFileProvider
+ADDED from [:expo-image-picker] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:33:9-41:20
+	android:grantUriPermissions
+		ADDED from [:expo-image-picker] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:37:13-47
+	android:authorities
+		ADDED from [:expo-image-picker] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:35:13-75
+	android:exported
+		ADDED from [:expo-image-picker] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:36:13-37
+	android:name
+		ADDED from [:expo-image-picker] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:34:13-89
+meta-data#org.unimodules.core.AppLoader#react-native-headless
+ADDED from [:expo-modules-core] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-modules-core/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-12:89
+	android:value
+		ADDED from [:expo-modules-core] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-modules-core/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-86
+	android:name
+		ADDED from [:expo-modules-core] /Users/kdcrafter10/Desktop/Capstone/Capstone/node_modules/expo-modules-core/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-79
+uses-feature#android.hardware.camera
+ADDED from [com.google.android:cameraview:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/2aa3eb7ffad3a6af6a0c4f4b4098f2c3/transformed/jetified-cameraview-1.0.0/AndroidManifest.xml:25:5-27:36
+	android:required
+		ADDED from [com.google.android:cameraview:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/2aa3eb7ffad3a6af6a0c4f4b4098f2c3/transformed/jetified-cameraview-1.0.0/AndroidManifest.xml:27:9-33
+	android:name
+		ADDED from [com.google.android:cameraview:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/2aa3eb7ffad3a6af6a0c4f4b4098f2c3/transformed/jetified-cameraview-1.0.0/AndroidManifest.xml:26:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from [com.google.android:cameraview:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/2aa3eb7ffad3a6af6a0c4f4b4098f2c3/transformed/jetified-cameraview-1.0.0/AndroidManifest.xml:28:5-30:36
+	android:required
+		ADDED from [com.google.android:cameraview:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/2aa3eb7ffad3a6af6a0c4f4b4098f2c3/transformed/jetified-cameraview-1.0.0/AndroidManifest.xml:30:9-33
+	android:name
+		ADDED from [com.google.android:cameraview:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/2aa3eb7ffad3a6af6a0c4f4b4098f2c3/transformed/jetified-cameraview-1.0.0/AndroidManifest.xml:29:9-57
+intent#action:name:android.intent.action.GET_CONTENT+category:name:android.intent.category.OPENABLE+data:mimeType:*/*
+ADDED from [com.github.CanHub:Android-Image-Cropper:4.3.0] /Users/kdcrafter10/.gradle/caches/transforms-3/305180749d6b5e3261860db0a0dc3afe/transformed/jetified-Android-Image-Cropper-4.3.0/AndroidManifest.xml:10:9-16:18
+action#android.intent.action.GET_CONTENT
+ADDED from [com.github.CanHub:Android-Image-Cropper:4.3.0] /Users/kdcrafter10/.gradle/caches/transforms-3/305180749d6b5e3261860db0a0dc3afe/transformed/jetified-Android-Image-Cropper-4.3.0/AndroidManifest.xml:11:13-72
+	android:name
+		ADDED from [com.github.CanHub:Android-Image-Cropper:4.3.0] /Users/kdcrafter10/.gradle/caches/transforms-3/305180749d6b5e3261860db0a0dc3afe/transformed/jetified-Android-Image-Cropper-4.3.0/AndroidManifest.xml:11:21-69
+category#android.intent.category.OPENABLE
+ADDED from [com.github.CanHub:Android-Image-Cropper:4.3.0] /Users/kdcrafter10/.gradle/caches/transforms-3/305180749d6b5e3261860db0a0dc3afe/transformed/jetified-Android-Image-Cropper-4.3.0/AndroidManifest.xml:13:13-73
+	android:name
+		ADDED from [com.github.CanHub:Android-Image-Cropper:4.3.0] /Users/kdcrafter10/.gradle/caches/transforms-3/305180749d6b5e3261860db0a0dc3afe/transformed/jetified-Android-Image-Cropper-4.3.0/AndroidManifest.xml:13:23-70
+data
+ADDED from [com.github.CanHub:Android-Image-Cropper:4.3.0] /Users/kdcrafter10/.gradle/caches/transforms-3/305180749d6b5e3261860db0a0dc3afe/transformed/jetified-Android-Image-Cropper-4.3.0/AndroidManifest.xml:15:13-44
+	android:mimeType
+		ADDED from [com.github.CanHub:Android-Image-Cropper:4.3.0] /Users/kdcrafter10/.gradle/caches/transforms-3/305180749d6b5e3261860db0a0dc3afe/transformed/jetified-Android-Image-Cropper-4.3.0/AndroidManifest.xml:15:19-41
+provider#com.canhub.cropper.CropFileProvider
+ADDED from [com.github.CanHub:Android-Image-Cropper:4.3.0] /Users/kdcrafter10/.gradle/caches/transforms-3/305180749d6b5e3261860db0a0dc3afe/transformed/jetified-Android-Image-Cropper-4.3.0/AndroidManifest.xml:23:9-31:20
+	android:grantUriPermissions
+		ADDED from [com.github.CanHub:Android-Image-Cropper:4.3.0] /Users/kdcrafter10/.gradle/caches/transforms-3/305180749d6b5e3261860db0a0dc3afe/transformed/jetified-Android-Image-Cropper-4.3.0/AndroidManifest.xml:27:13-47
+	android:authorities
+		ADDED from [com.github.CanHub:Android-Image-Cropper:4.3.0] /Users/kdcrafter10/.gradle/caches/transforms-3/305180749d6b5e3261860db0a0dc3afe/transformed/jetified-Android-Image-Cropper-4.3.0/AndroidManifest.xml:25:13-72
+	android:exported
+		ADDED from [com.github.CanHub:Android-Image-Cropper:4.3.0] /Users/kdcrafter10/.gradle/caches/transforms-3/305180749d6b5e3261860db0a0dc3afe/transformed/jetified-Android-Image-Cropper-4.3.0/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [com.github.CanHub:Android-Image-Cropper:4.3.0] /Users/kdcrafter10/.gradle/caches/transforms-3/305180749d6b5e3261860db0a0dc3afe/transformed/jetified-Android-Image-Cropper-4.3.0/AndroidManifest.xml:24:13-63
+activity#androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity
+ADDED from [com.github.CanHub:Android-Image-Cropper:4.3.0] /Users/kdcrafter10/.gradle/caches/transforms-3/305180749d6b5e3261860db0a0dc3afe/transformed/jetified-Android-Image-Cropper-4.3.0/AndroidManifest.xml:38:9-45:20
+	android:exported
+		ADDED from [com.github.CanHub:Android-Image-Cropper:4.3.0] /Users/kdcrafter10/.gradle/caches/transforms-3/305180749d6b5e3261860db0a0dc3afe/transformed/jetified-Android-Image-Cropper-4.3.0/AndroidManifest.xml:40:13-36
+	android:theme
+		ADDED from [com.github.CanHub:Android-Image-Cropper:4.3.0] /Users/kdcrafter10/.gradle/caches/transforms-3/305180749d6b5e3261860db0a0dc3afe/transformed/jetified-Android-Image-Cropper-4.3.0/AndroidManifest.xml:41:13-49
+	android:name
+		ADDED from [com.github.CanHub:Android-Image-Cropper:4.3.0] /Users/kdcrafter10/.gradle/caches/transforms-3/305180749d6b5e3261860db0a0dc3afe/transformed/jetified-Android-Image-Cropper-4.3.0/AndroidManifest.xml:39:13-99
+intent-filter#action:name:android.intent.action.MAIN
+ADDED from [com.github.CanHub:Android-Image-Cropper:4.3.0] /Users/kdcrafter10/.gradle/caches/transforms-3/305180749d6b5e3261860db0a0dc3afe/transformed/jetified-Android-Image-Cropper-4.3.0/AndroidManifest.xml:42:13-44:29
+activity#androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity
+ADDED from [com.github.CanHub:Android-Image-Cropper:4.3.0] /Users/kdcrafter10/.gradle/caches/transforms-3/305180749d6b5e3261860db0a0dc3afe/transformed/jetified-Android-Image-Cropper-4.3.0/AndroidManifest.xml:46:9-53:20
+	android:exported
+		ADDED from [com.github.CanHub:Android-Image-Cropper:4.3.0] /Users/kdcrafter10/.gradle/caches/transforms-3/305180749d6b5e3261860db0a0dc3afe/transformed/jetified-Android-Image-Cropper-4.3.0/AndroidManifest.xml:48:13-36
+	android:theme
+		ADDED from [com.github.CanHub:Android-Image-Cropper:4.3.0] /Users/kdcrafter10/.gradle/caches/transforms-3/305180749d6b5e3261860db0a0dc3afe/transformed/jetified-Android-Image-Cropper-4.3.0/AndroidManifest.xml:49:13-49
+	android:name
+		ADDED from [com.github.CanHub:Android-Image-Cropper:4.3.0] /Users/kdcrafter10/.gradle/caches/transforms-3/305180749d6b5e3261860db0a0dc3afe/transformed/jetified-Android-Image-Cropper-4.3.0/AndroidManifest.xml:47:13-95
+activity#androidx.test.core.app.InstrumentationActivityInvoker$EmptyFloatingActivity
+ADDED from [com.github.CanHub:Android-Image-Cropper:4.3.0] /Users/kdcrafter10/.gradle/caches/transforms-3/305180749d6b5e3261860db0a0dc3afe/transformed/jetified-Android-Image-Cropper-4.3.0/AndroidManifest.xml:54:9-61:20
+	android:exported
+		ADDED from [com.github.CanHub:Android-Image-Cropper:4.3.0] /Users/kdcrafter10/.gradle/caches/transforms-3/305180749d6b5e3261860db0a0dc3afe/transformed/jetified-Android-Image-Cropper-4.3.0/AndroidManifest.xml:56:13-36
+	android:theme
+		ADDED from [com.github.CanHub:Android-Image-Cropper:4.3.0] /Users/kdcrafter10/.gradle/caches/transforms-3/305180749d6b5e3261860db0a0dc3afe/transformed/jetified-Android-Image-Cropper-4.3.0/AndroidManifest.xml:57:13-56
+	android:name
+		ADDED from [com.github.CanHub:Android-Image-Cropper:4.3.0] /Users/kdcrafter10/.gradle/caches/transforms-3/305180749d6b5e3261860db0a0dc3afe/transformed/jetified-Android-Image-Cropper-4.3.0/AndroidManifest.xml:55:13-103
+meta-data#com.bumptech.glide.integration.okhttp3.OkHttpGlideModule
+ADDED from [com.github.bumptech.glide:okhttp3-integration:4.12.0] /Users/kdcrafter10/.gradle/caches/transforms-3/946279f6a850cbad45365fe5aa0b51df/transformed/jetified-okhttp3-integration-4.12.0/AndroidManifest.xml:11:9-13:43
+	android:value
+		ADDED from [com.github.bumptech.glide:okhttp3-integration:4.12.0] /Users/kdcrafter10/.gradle/caches/transforms-3/946279f6a850cbad45365fe5aa0b51df/transformed/jetified-okhttp3-integration-4.12.0/AndroidManifest.xml:13:13-40
+	android:name
+		ADDED from [com.github.bumptech.glide:okhttp3-integration:4.12.0] /Users/kdcrafter10/.gradle/caches/transforms-3/946279f6a850cbad45365fe5aa0b51df/transformed/jetified-okhttp3-integration-4.12.0/AndroidManifest.xml:12:13-84
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/31798a0ea3f25ea98e44c876b4851b08/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/kdcrafter10/.gradle/caches/transforms-3/39517e1b011367242185b54afc0b3c9e/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/kdcrafter10/.gradle/caches/transforms-3/39517e1b011367242185b54afc0b3c9e/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/bf5c3c76aa1a63b86455021de73134fc/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/bf5c3c76aa1a63b86455021de73134fc/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/31798a0ea3f25ea98e44c876b4851b08/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/31798a0ea3f25ea98e44c876b4851b08/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/31798a0ea3f25ea98e44c876b4851b08/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/31798a0ea3f25ea98e44c876b4851b08/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/31798a0ea3f25ea98e44c876b4851b08/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/31798a0ea3f25ea98e44c876b4851b08/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/kdcrafter10/.gradle/caches/transforms-3/31798a0ea3f25ea98e44c876b4851b08/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:32:17-75
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.exoplayer:exoplayer-core:2.13.3] /Users/kdcrafter10/.gradle/caches/transforms-3/2d13c7d0639f2f5a8cc3096e0876f74d/transformed/jetified-exoplayer-core-2.13.3/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.13.3] /Users/kdcrafter10/.gradle/caches/transforms-3/c6c5dfdc0769d9f2aa1860ab476c7cea/transformed/jetified-exoplayer-common-2.13.3/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.13.3] /Users/kdcrafter10/.gradle/caches/transforms-3/c6c5dfdc0769d9f2aa1860ab476c7cea/transformed/jetified-exoplayer-common-2.13.3/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.android.exoplayer:exoplayer-core:2.13.3] /Users/kdcrafter10/.gradle/caches/transforms-3/2d13c7d0639f2f5a8cc3096e0876f74d/transformed/jetified-exoplayer-core-2.13.3/AndroidManifest.xml:24:22-76
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/kdcrafter10/.gradle/caches/transforms-3/39517e1b011367242185b54afc0b3c9e/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/kdcrafter10/.gradle/caches/transforms-3/39517e1b011367242185b54afc0b3c9e/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/kdcrafter10/.gradle/caches/transforms-3/39517e1b011367242185b54afc0b3c9e/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.android.installreferrer:installreferrer:1.0] /Users/kdcrafter10/.gradle/caches/transforms-3/32b3a4418e69f248993678d5ad5cb73f/transformed/jetified-installreferrer-1.0/AndroidManifest.xml:9:5-110
+	android:name
+		ADDED from [com.android.installreferrer:installreferrer:1.0] /Users/kdcrafter10/.gradle/caches/transforms-3/32b3a4418e69f248993678d5ad5cb73f/transformed/jetified-installreferrer-1.0/AndroidManifest.xml:9:22-107
