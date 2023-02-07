@@ -226,8 +226,8 @@ Android와 IOS 두 운영체제에서 구동이 가능한 멀티 플랫폼 어�
 ## 다운로드
  - h5 모델 : https://drive.google.com/file/d/10i4UZFJYbet7OFl7Z_xr8rYegiNhDwzE/view?usp=share_link
  - 안드로이드 apk 설치 파일 : https://drive.google.com/file/d/1fvwQp5ZoJipbEI0_troT76LbM_iXjBLi/view
-  <br>**로컬 서버를 사용하였기 때문에 홈 화면에서 위 서버 IP 주소 선택을 통해 Flask의 로컬 IP 주소를 바꿔줘야함.**
-  **main.py와 위 다운로드 받은 모델은 동일 디렉토리에 위치시켜야함.**
+<br><br>**로컬 서버를 사용하였기 때문에 홈 화면에서 위 서버 IP 주소 선택을 통해 Flask의 로컬 IP 주소를 바꿔줘야함.**<br>
+**main.py와 위 다운로드 받은 모델은 동일 디렉토리에 위치시켜야함.**
 
 ## 참고문헌
  
